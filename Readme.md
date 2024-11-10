@@ -1,28 +1,5 @@
-Implementation:
-PetAdoptionPlatform/
-│
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   ├── com/
-│   │   │   │   ├── petadoption/
-│   │   │   │   │   ├── Main.java
-│   │   │   │   │   ├── models/
-│   │   │   │   │   │   ├── User.java
-│   │   │   │   │   │   ├── Pet.java
-│   │   │   │   │   │   ├── AdoptionApplication.java
-│   │   │   │   │   ├── services/
-│   │   │   │   │   │   ├── AdminService.java
-│   │   │   │   │   │   ├── ShelterService.java
-│   │   │   │   │   │   ├── AdopterService.java
-│   │   │   │   │   ├── utils/
-│   │   │   │   │   │   ├── InputUtils.java
-│   │   │   │   │   ├── dashboards/
-│   │   │   │   │   │   ├── AdminDashboard.java
-│   │   │   │   │   │   ├── ShelterDashboard.java
-│   │   │   │   │   │   ├── AdopterDashboard.java
-│   │   │   │   │   └── PetAdoptionPlatform.java
-│   │   │   └── resources/
-│   │   └── test/
-│   └── pom.xml
-└── README.md
+Requirements:
+JAVA 8
+Setup:
+The project is set-up in 7 files which is console based. To run the project Execute the main.java file
+The diagram of implementation in provided in the presentation.
